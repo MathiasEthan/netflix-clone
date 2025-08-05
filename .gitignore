@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+./api/posts
 
 # debug
 npm-debug.log*

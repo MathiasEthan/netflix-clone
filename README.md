@@ -1,6 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 visit the site at [netflix-clone](https://netflix-clone-three-omega-45.vercel.app/)
+used NextJS and Shadcn as well as tailwind blocks to bootstrap and design the project
+used firebase realtime databse to store favourites as json
+interacting with Studio Ghibli API for data
+
 
 ## Getting Started
 
